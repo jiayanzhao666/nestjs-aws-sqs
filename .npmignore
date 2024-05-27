@@ -1,0 +1,11 @@
+# source
+lib
+/index.ts
+yarn.lock
+.eslintrc.js
+.prettierrc
+.eslintignore
+
+
+# misc
+.DS_Store

@@ -1,5 +1,5 @@
 {
-  "name": "@jiayanzhao/nestjs-aws-sqs",
+  "name": "nestjs-aws-sqs-lite",
   "version": "1.0.0",
   "description": "a nestjs module for aws sqs",
   "main": "dist/index.js",
